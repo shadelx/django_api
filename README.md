@@ -9,4 +9,4 @@ This is a simple django rest api with hero examples
 ## code
 ### `pipenv install -r ./requirements.txt`
 ### `pipenv shell`
-### `python managa.py runserver`
+### `python manage.py runserver`
