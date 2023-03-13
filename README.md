@@ -6,3 +6,7 @@ This is a simple django rest api with hero examples
 * django
 * django-rest-api
 
+## code
+### `pipenv install -r ./requirements.txt`
+### `pipenv shell`
+### `python managa.py runserver`
